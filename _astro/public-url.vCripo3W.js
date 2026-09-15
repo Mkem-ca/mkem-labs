@@ -1,0 +1,1 @@
+var e=e=>`${`/mkem-labs/`.replace(/\/+$/,``)}/${e.replace(/^\/+/,``)}`;export{e as t};
